@@ -26,11 +26,6 @@ AI Feedback Analyzer helps businesses and individuals understand large volumes o
 - Backend: (Add if you used any - e.g., Node.js / Python / Flask)  
 - AI/Logic: (Mention if you used OpenAI, ML model, etc.)
 
----
-
-## 📸 Screenshots
-
-(Add screenshots of your project here)
 
 ---
 
